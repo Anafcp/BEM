@@ -1,8 +1,8 @@
-#Análisis Accesibilidad BEM#
+# Análisis Accesibilidad BEM
 
-##Wave##
+## Wave
 
-###Errores###
+### Errores
 
 1. 15X Linked image missing alternative tex
 - Posible solución: Añadir texto alternativo. alt
